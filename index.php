@@ -1,6 +1,6 @@
 <?php
   include_once("res/session.php");
-  include_once("res/connect.php");
+  
 ?>
 
 <!DOCTYPE html>
@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="css/style.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
       <link rel="stylesheet" type="text/css" href="css/style.css">
       
